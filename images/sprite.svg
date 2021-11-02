@@ -1,0 +1,136 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.2 59.83" id="clock">
+    <defs></defs>
+    <title>clock</title>
+    <g id="Layer_2">
+      <g id="Layer_1-2">
+        <path d="M30.13,55.63A25.49,25.49,0,0,0,55.27,34.27l2.37,4.1,1.69-2.93a29.69,29.69,0,0,1-29.2,24.39v-4.2ZM26.9,31l.74-.43L15.07,23l1.45-2.44,13.91,8.32,17.4-10.2.25.43,2.23-1.29.28.48-2.23,1.29.29.51L32,29.84l.84.51-1.45,2.44-2.19-1.31-1.51.89L26.9,31ZM33.11,6.42l.46.06-.24,1.64-.46-.07.24-1.63Zm-6.6,45.29.45.07-.24,1.63-.45-.06.24-1.64ZM38.83,7.94l.42.18-.64,1.52-.42-.17.64-1.53ZM21.22,50.19l.42.18L21,51.89l-.43-.17.64-1.53ZM44.38,11.13l.36.28-1,1.3-.36-.28,1-1.3Zm-28.27,36,.36.28-1,1.3-.36-.28,1-1.3ZM48.7,15.44l.27.36-1.32,1-.27-.37,1.32-1ZM12.18,43l.28.36-1.32,1L10.86,44l1.32-1Zm39.6-22.31-1.53.63.17.42L52,21.15l-.17-.42ZM9.41,38.05l.17.43-1.53.62-.17-.42,1.53-.63Zm43.94-11.8.06.45-1.63.24-.07-.45,1.64-.24ZM8.06,32.89l.06.46-1.63.24-.07-.46,1.64-.24ZM53.43,33l-.06.45-1.64-.23.06-.45,1.64.23ZM8.11,26.6,8,27.06l-1.63-.24.06-.45,1.64.23ZM51.94,38.71l-1.53-.63-.17.42,1.53.63.17-.42ZM9.59,21.33l-.17.42-1.53-.62.18-.43,1.52.63ZM48.92,44.1l-1.31-1-.28.36,1.32,1,.27-.36ZM12.5,16.37l-.27.37-1.32-1,.28-.36,1.31,1Zm27,35.24-.66-1.52-.42.18.66,1.52.42-.18Zm-18.09-42L21,9.74l-.65-1.52L20.76,8l.65,1.52Zm23.14,39-1-1.31-.36.28,1,1.31.36-.28ZM16.65,12.29l-.36.28-1-1.31.37-.28,1,1.31ZM33.5,53.36l-.24-1.64-.45.07L33,53.42l.46-.06ZM27,8.05l-.45.06-.23-1.64.45-.06L27,8.05ZM8.67,24l-.12.44L7,24l.12-.44,1.6.43ZM46.85,46.52l-1.17-1.17-.33.33,1.17,1.17.33-.33ZM36.28,52.76l-.43-1.59-.44.11.42,1.6.45-.12ZM24.43,8.55,24,8.67l-.43-1.6L24,7l.43,1.6ZM24,52.88l-.44-.12L24,51.17l.44.11L24,52.88Zm-10.69-6L13,46.52l1.17-1.17.32.33-1.17,1.17ZM7.07,36.28,7,35.83l1.6-.43.12.45-1.6.43Zm45.81-.45-1.59-.43-.12.45,1.59.43.12-.45ZM14.48,14.16l-.32.32L13,13.31l.32-.32,1.17,1.17ZM35.85,8.67l-.44-.12L35.83,7l.45.12-.43,1.6Zm9.83,5.81-.33-.32L46.52,13l.33.32-1.17,1.17Zm5.61,10L51.17,24l1.59-.43.12.44-1.59.43ZM28.62,49.1v4.53h2.59V49.1ZM6.2,31.21V28.62h4.54v2.59Zm22.42-25h2.59v4.54H28.62V6.2Zm20.48,25h4.53v-2l1.89,3.28,2.23,3.85L60,32.45l2.23-3.86H59.82a30.26,30.26,0,0,0-.8-5.67L55,24a25.77,25.77,0,0,1,.65,4.59H53.3l0,0H49.1v2.59ZM41.53,50.59l.48-.28L40.66,48l-.49.28,1.36,2.35ZM19.18,48l.48.28L18.3,50.59l-.48-.28L19.18,48ZM11.6,19.66l.27-.48L9.52,17.82l-.28.48,2.36,1.36Zm0,20.51.27.48L9.52,42l-.28-.48,2.36-1.36Zm7.58-28.3.48-.27L18.3,9.24l-.48.28,1.36,2.35ZM41.53,9.24l.48.28-1.35,2.35-.49-.27,1.36-2.36ZM50.31,42l.28-.48-2.35-1.36-.28.48L50.31,42ZM29.15,59.83A29.68,29.68,0,0,1,22.92,59L24,55a25.65,25.65,0,0,0,5.15.67v4.2Zm-7.72-1.21a29.65,29.65,0,0,1-5.81-2.41l2.11-3.64a24.93,24.93,0,0,0,4.79,2l-1.09,4.06Zm-7.14-3.18,2.1-3.64a25.67,25.67,0,0,1-4.11-3.16l-3,3a29.85,29.85,0,0,0,5,3.83ZM8.22,50.53l3-3A26.4,26.4,0,0,1,8,43.44l-3.64,2.1a30,30,0,0,0,3.83,5Zm-4.6-6.32A30,30,0,0,1,1.21,38.4l4.07-1.08a25.83,25.83,0,0,0,2,4.79l-3.64,2.1ZM.82,36.92A29.12,29.12,0,0,1,0,30.69H4.21a25.65,25.65,0,0,0,.67,5.14L.82,36.92ZM0,29.15a29.68,29.68,0,0,1,.81-6.23L4.88,24a25.65,25.65,0,0,0-.67,5.15Zm1.21-7.72a29.65,29.65,0,0,1,2.41-5.81l3.64,2.11a26.27,26.27,0,0,0-2,4.79L1.21,21.43Zm3.18-7.14L8,16.39a26.88,26.88,0,0,1,3.16-4.11l-3-3a30.39,30.39,0,0,0-3.83,5ZM9.31,8.22l3,3A26.88,26.88,0,0,1,16.39,8l-2.1-3.64a30.39,30.39,0,0,0-5,3.83Zm6.31-4.6a30.27,30.27,0,0,1,5.81-2.41l1.09,4.07a25.55,25.55,0,0,0-4.79,2L15.62,3.62Zm7.3-2.8A29.68,29.68,0,0,1,29.15,0V4.2A26.4,26.4,0,0,0,24,4.88L22.92.82ZM30.69,0a29.77,29.77,0,0,1,6.23.81L35.83,4.88a26.4,26.4,0,0,0-5.14-.68V0Zm7.72,1.21a29.56,29.56,0,0,1,5.8,2.41l-2.1,3.64a26.56,26.56,0,0,0-4.79-2l1.09-4.06Zm7.13,3.18L43.44,8a26.4,26.4,0,0,1,4.11,3.16l3-3a30,30,0,0,0-5-3.83Zm6.07,4.92-3,3a25.67,25.67,0,0,1,3.16,4.11l3.64-2.1a29.85,29.85,0,0,0-3.83-5Zm4.6,6.31a29.65,29.65,0,0,1,2.41,5.81l-4.06,1.09a24.93,24.93,0,0,0-2-4.79Z"></path>
+      </g>
+    </g>
+  </symbol>
+  <symbol xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape" xmlnsRdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlnsCc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlnsDc="http://purl.org/dc/elements/1.1/" xmlnsSvg="http://www.w3.org/2000/svg" xmlnsNs1="http://sozi.baierouge.fr" id="green-tick" sodipodiDocname="green-tick.svg" inkscapeExportFilename="/home/koppi/Desktop/ic_valid.png" inkscapeExportXdpi="52.73" version="1.1" inkscapeExportYdpi="52.73" inkscapeVersion="0.48.1 r9760" viewBox="0 0 512 512">
+    <title id="title3082">green tick</title>
+    <defs id="defs4">
+      <linearGradient id="linearGradient3999">
+        <stop id="stop4001" offset="0"></stop>
+        <stop id="stop4003" offset="1"></stop>
+      </linearGradient>
+      <filter id="filter4023" inkscapeCollect="always" color-interpolation-filters="sRGB">
+        <feGaussianBlur id="feGaussianBlur4025" stdDeviation="2.4258303" inkscapeCollect="always"></feGaussianBlur>
+      </filter>
+      <filter id="filter4485" inkscapeCollect="always" color-interpolation-filters="sRGB">
+        <feGaussianBlur id="feGaussianBlur4487" stdDeviation="1.1062279" inkscapeCollect="always"></feGaussianBlur>
+      </filter>
+      <filter id="filter4587" height="1.1179" width="1.517" color-interpolation-filters="sRGB" y="-.058945" x="-.25850" inkscapeCollect="always">
+        <feGaussianBlur id="feGaussianBlur4589" stdDeviation="0.81428547" inkscapeCollect="always"></feGaussianBlur>
+      </filter>
+      <filter id="filter4605" inkscapeCollect="always" color-interpolation-filters="sRGB">
+        <feGaussianBlur id="feGaussianBlur4607" stdDeviation="1.6484403" inkscapeCollect="always"></feGaussianBlur>
+      </filter>
+      <filter id="filter4613" inkscapeCollect="always" color-interpolation-filters="sRGB">
+        <feGaussianBlur id="feGaussianBlur4615" stdDeviation="0.999409" inkscapeCollect="always"></feGaussianBlur>
+      </filter>
+      <filter id="filter4996" inkscapeCollect="always" color-interpolation-filters="sRGB">
+        <feGaussianBlur id="feGaussianBlur4998" stdDeviation="11.739469" inkscapeCollect="always"></feGaussianBlur>
+      </filter>
+      <radialGradient id="radialGradient5000" gradientUnits="userSpaceOnUse" cy="238.62" cx="229.21" gradientTransform="matrix(.81737 .57611 -1.8271 2.5923 462.04 67.492)" r="102.53" inkscapeCollect="always">
+        <stop id="stop4593" offset="0"></stop>
+        <stop id="stop4595" offset="1"></stop>
+      </radialGradient>
+      <radialGradient id="radialGradient5002" gradientUnits="userSpaceOnUse" cy="316.37" cx="62.352" gradientTransform="matrix(-.29991 1.5184 -1.3648 -.26959 674.59 613.64)" r="237.72" inkscapeCollect="always">
+        <stop id="stop3849" offset="0"></stop>
+        <stop id="stop3851" offset="1"></stop>
+      </radialGradient>
+      <radialGradient id="radialGradient5004" gradientUnits="userSpaceOnUse" cy="285.55" cx="127.34" gradientTransform="matrix(.39010 -.53963 1.7887 1.2931 -450.3 518.97)" r="54.928" inkscapeCollect="always">
+        <stop id="stop3883" offset="0"></stop>
+        <stop id="stop3885" offset="1"></stop>
+      </radialGradient>
+      <radialGradient id="radialGradient5006" gradientUnits="userSpaceOnUse" cy="269.24" cx="59.431" gradientTransform="matrix(-1.2347 -.70514 1.4443 -2.5289 -253.85 1509.6)" r="27.633" inkscapeCollect="always">
+        <stop id="stop3907" offset="0"></stop>
+        <stop id="stop3909" offset="1"></stop>
+      </radialGradient>
+      <radialGradient id="radialGradient5008" gradientUnits="userSpaceOnUse" cy="113.38" cx="482.8" gradientTransform="matrix(1.2452 -1.3398 1.3318 1.2377 -263.13 1172.6)" r="59.109" inkscapeCollect="always">
+        <stop id="stop3923" offset="0"></stop>
+        <stop id="stop3925" offset="1"></stop>
+      </radialGradient>
+      <radialGradient id="radialGradient5010" gradientUnits="userSpaceOnUse" cy="323.81" cx="301.8" gradientTransform="matrix(.22372 .21012 -1.1032 1.1746 591.52 414.96)" r="175.26" inkscapeCollect="always">
+        <stop id="stop3941" offset="0"></stop>
+        <stop id="stop3943" offset="1"></stop>
+      </radialGradient>
+      <radialGradient id="radialGradient5012" gradientUnits="userSpaceOnUse" cy="434.9" cx="206.53" gradientTransform="matrix(.29527 .38971 -1.6605 1.2581 872.75 332.85)" r="64.754" inkscapeCollect="always">
+        <stop id="stop3967" offset="0"></stop>
+        <stop id="stop3969" offset="1"></stop>
+      </radialGradient>
+      <linearGradient id="linearGradient5014" y2="49.509" gradientUnits="userSpaceOnUse" x2="401.02" gradientTransform="translate(0 540.36)" y1="32.932" x1="385.83" inkscapeCollect="always">
+        <stop id="stop4049" offset="0"></stop>
+        <stop id="stop4051" offset="1"></stop>
+      </linearGradient>
+      <radialGradient id="radialGradient5016" xlink:href="#linearGradient3999" gradientUnits="userSpaceOnUse" cy="126.68" cx="321.29" gradientTransform="matrix(-.15631 -.11785 1.5631 -2.0731 188.43 960.93)" r="111.07" inkscapeCollect="always"></radialGradient>
+      <radialGradient id="radialGradient5018" xlink:href="#linearGradient3999" gradientUnits="userSpaceOnUse" cy="115.5" cx="1663.3" gradientTransform="matrix(-.58161 .72453 -.80354 -.64504 1150.5 -317.88)" r="111.07" inkscapeCollect="always"></radialGradient>
+      <radialGradient id="radialGradient5020" xlink:href="#linearGradient3999" gradientUnits="userSpaceOnUse" cy="113.33" cx="1663.8" gradientTransform="matrix(-.41176 .71855 -.22544 -.12918 779.55 -379.43)" r="111.07" inkscapeCollect="always"></radialGradient>
+    </defs>
+    <sodipodi:namedview id="base" bordercolor="#666666" inkscapePageshadow="2" inkscapeWindowY="24" pagecolor="#2b2b2b" inkscapeSnapGlobal="true" inkscapeWindowMaximized="1" inkscapeZoom="1.0136719" inkscapeSnapNodes="false" inkscapeWindowHeight="746" showgrid="false" borderopacity="1.0" inkscapeCurrentLayer="layer1" inkscapeCx="75.468213" inkscapeCy="263.8921" inkscapeObjectNodes="true" inkscapeSnapSmoothNodes="true" inkscapeWindowX="0" inkscapeWindowWidth="1280" inkscapePageopacity="0" inkscapeDocumentUnits="px"></sodipodi:namedview>
+    <g id="layer1" inkscapeLabel="Layer 1" inkscapeGroupmode="layer" transform="translate(0 -540.36)">
+      <path id="path4874" inkscapeConnectorCurvature="0" d="m374.69 571.52c-11.01 10.85-123.44 166.02-198.16 267.53l-108.28-73.562-53.625 91.438 2.4688 27.938s176 149.06 187.75 148.53c13.159-0.5867 204.82-236.02 286.69-342.19-23.597-17.702-41.218-31.783-57.25-44.656l57.25 44.656 0.375-27.719c-42.88-38.44-73.73-71.2-117.23-91.96zm-170.19 276.88c-9.8124 13.71-19.075 26.544-27.406 37.938l27.406-37.938z" transform="matrix(.97172 0 0 .98958 10.055 10.768)"></path>
+      <g id="g4859">
+        <path id="path3927" d="m383.83 594.04c7.5567-15.813 3.2215-25.68-5.8978-33.154-11.016 10.858-123.45 166.04-198.17 267.55l0.57401 47.279z" sodipodiNodetypes="ccccc" inkscapeConnectorCurvature="0"></path>
+        <path id="path3845" d="m383.83 594.04c-4.9602-1.6394-134.95 187.94-203.49 281.68-32.889-26.82-65.696-53.64-108.21-80.461-24.176 23.175-26.582 24.503-51.791 78.99 0 0 175.99 149.04 187.74 148.52 13.159-0.5867 204.83-236.03 286.7-342.19-50.09-37.578-73.652-59.099-110.95-86.535z" sodipodiNodetypes="ccccscc" inkscapeConnectorCurvature="0"></path>
+        <path id="path3857" d="m180.34 875.72-0.57-47.28-108.28-73.59 0.647 40.41z" inkscapeConnectorCurvature="0"></path>
+        <path id="path3895" d="m72.137 795.26-0.65012-40.408-53.615 91.461 2.4746 27.937z" inkscapeConnectorCurvature="0"></path>
+        <path id="path3911" d="m494.79 680.58 0.36596-27.703c-42.875-38.441-73.718-71.219-117.22-91.987 7.9037 15.957 5.8978 33.154 5.8978 33.154z" sodipodiNodetypes="ccccc" inkscapeConnectorCurvature="0"></path>
+        <path id="path3937" d="m467.09 662.84c-108.67 166.37-205.08 223.9-337.91 298.58l16.159 12.917c178.43-117.14 283.26-213.04 336.31-299.49z" sodipodiNodetypes="ccccc" inkscapeConnectorCurvature="0"></path>
+        <path id="path3947" d="m296.7 924.15c-46.581-2.1421-105.16 25.246-133.41 65.837 0 0 40.533 1.8047 61.939-1.2994s36.157-27.576 71.468-64.537z" sodipodiNodetypes="cczc" inkscapeConnectorCurvature="0"></path>
+        <path id="path3971" d="m379.29 566.32c6.9436 14.038 8.2202 20.058 4.5397 27.722" sodipodiNodetypes="cc" inkscapeConnectorCurvature="0"></path>
+        <path id="path3997" d="m383.83 594.04-203.49 281.68" inkscapeConnectorCurvature="0"></path>
+        <path id="path4149" sodipodiNodetypes="cc" inkscapeConnectorCurvature="0" d="m70.737 796.46c34.322 18.086 70.895 47.429 108.21 80.461"></path>
+        <path id="path4153" sodipodiNodetypes="cc" d="m74.837 797.59c-23.195 21.469-43.011 63.218-53.067 77.077" inkscapeConnectorCurvature="0"></path>
+      </g>
+    </g>
+    <metadata>
+      <rdf:RDF>
+        <cc:Work>
+          <dc:format>image/svg+xml</dc:format>
+          <dc:type rdfResource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+          <cc:license rdfResource="http://creativecommons.org/licenses/publicdomain/"></cc:license>
+          <dc:publisher>
+            <cc:Agent rdfAbout="http://openclipart.org/">
+              <dc:title>Openclipart</dc:title>
+            </cc:Agent>
+          </dc:publisher>
+          <dc:title>green tick</dc:title>
+          <dc:date>2011-09-09T14:54:18</dc:date>
+          <dc:description>a green tick.</dc:description>
+          <dc:source>https://openclipart.org/detail/159733/green-tick-by-koppi</dc:source>
+          <dc:creator>
+            <cc:Agent>
+              <dc:title>koppi</dc:title>
+            </cc:Agent>
+          </dc:creator>
+          <dc:subject>
+            <rdf:Bag>
+              <rdf:li>green</rdf:li>
+              <rdf:li>grün</rdf:li>
+              <rdf:li>haken</rdf:li>
+              <rdf:li>häkchen</rdf:li>
+              <rdf:li>tick</rdf:li>
+            </rdf:Bag>
+          </dc:subject>
+        </cc:Work>
+        <cc:License rdfAbout="http://creativecommons.org/licenses/publicdomain/">
+          <cc:permits rdfResource="http://creativecommons.org/ns#Reproduction"></cc:permits>
+          <cc:permits rdfResource="http://creativecommons.org/ns#Distribution"></cc:permits>
+          <cc:permits rdfResource="http://creativecommons.org/ns#DerivativeWorks"></cc:permits>
+        </cc:License>
+      </rdf:RDF>
+    </metadata>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63.04 56.89" id="Asset 1">
+    <defs></defs>
+    <title>Asset 1</title>
+    <g id="Layer_2">
+      <g id="OBJECTS">
+        <path d="M62,0a1.27,1.27,0,0,0-.34,0H52.18A1.33,1.33,0,0,0,51,.69L31.71,35.47,12,.68A1.32,1.32,0,0,0,10.86,0H1.34A1.31,1.31,0,0,0,1,0a1.35,1.35,0,0,0-1,1.3V55.55a1.34,1.34,0,0,0,1.34,1.34h9.52a1.34,1.34,0,0,0,1.34-1.34V23.26L25.84,47.37a1.33,1.33,0,0,0,1.1.67h9.7a1.36,1.36,0,0,0,1.06-.68L50.84,23.68V55.55a1.34,1.34,0,0,0,1.34,1.34H61.7A1.34,1.34,0,0,0,63,55.55V1.34A1.35,1.35,0,0,0,62,0ZM9.52,54.21H2.68V6.43l6.84,12.1ZM12.2,17.82V6.43l18,31.79L27,44Zm38.64.33L36.52,44l-3.26-5.76L50.84,6.52Zm9.52,36.06H53.52V18.85L60.36,6.52Z"></path>
+      </g>
+    </g>
+  </symbol>
+</svg>
