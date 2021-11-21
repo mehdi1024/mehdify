@@ -188,6 +188,12 @@ p {
   background: #ec3000;
 }
 
+.btn--outline {
+  background: #fff;
+  color: var(--color-headings);
+  border: 2px solid var(--color-headings);
+}
+
 .btn--outline:hover {
   background: var(--color-headings);
   color: #fff;
@@ -293,6 +299,11 @@ p {
 .plan .list__item {
   margin-bottom: 2rem;
 }
+
+.plan--popular {
+  transform: scale(1.1);
+}
+
 .plan--popular .card__header {
   position: relative;
 }
@@ -663,4 +674,15 @@ p {
   .block-domain__prices {
     grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
   }
+}
+
+/*Plans Blocks*/
+
+.block-plans .grid {
+  gap: 8rem 4rem;
+}
+
+.block-plans .card {
+  max-width: 500px;
+  margin: 0 auto;
 }
