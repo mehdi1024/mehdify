@@ -104,7 +104,6 @@ p {
 .list {
   list-style: none;
   padding-left: 0;
-  color: var(--color-headings);
 }
 
 .list--inline .list__item {
@@ -141,6 +140,9 @@ p {
 .icon--primary {
   fill: var(--color-primary);
 }
+.icon--secondary {
+  fill: var(--color-secondary);
+}
 
 .icon--white {
   fill: #fff;
@@ -168,10 +170,11 @@ p {
   font-weight: 600;
   margin: 1rem 0;
   outline: 0;
-  padding: 2rem 3rem;
+  padding: 2rem 4vw;
   text-align: center;
   text-transform: uppercase;
   white-space: nowrap;
+  text-decoration: none;
 }
 
 .btn .icon {
@@ -257,6 +260,7 @@ p {
   border: 0;
   flex-grow: 1;
   padding: 1.5rem 2rem;
+  width: 0;
 }
 
 .input-group .btn {
@@ -604,6 +608,7 @@ p {
 .nav__item > a {
   color: #d2d0db;
   transition: color 0.3s;
+  text-decoration: none;
 }
 
 .nav__item > a:hover {
@@ -680,8 +685,9 @@ p {
 }
 
 .block-domain__prices {
+  color: var(--color-headings);
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, 6rem);
   font-size: 2rem;
   font-weight: 600;
